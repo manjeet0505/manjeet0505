@@ -56,7 +56,7 @@
         Mentor Connect, Progress Tracking & AI automation.
       </p>
       <p align="center">
-        🔗 <a href="#">View Repository</a>
+        🔗 <a href="https://github.com/manjeet0505">View Repository</a>
       </p>
     </td>
 
@@ -67,7 +67,7 @@
         dynamic rendering, and professional UI.
       </p>
       <p align="center">
-        🔗 <a href="#">View Repository</a>
+        🔗 <a href="https://github.com/manjeet0505">View Repository</a>
       </p>
     </td>
   </tr>
@@ -80,7 +80,7 @@
         fully secure authentication flow.
       </p>
       <p align="center">
-        🔗 <a href="#">View Repository</a>
+        🔗 <a href="https://github.com/manjeet0505">View Repository</a>
       </p>
     </td>
 
@@ -91,7 +91,7 @@
         real-time chat, guidance & shared learning.
       </p>
       <p align="center">
-        🔗 <a href="#">View Repository</a>
+        🔗 <a href="https://github.com/manjeet0505">View Repository</a>
       </p>
     </td>
   </tr>
