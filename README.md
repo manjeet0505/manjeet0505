@@ -1,6 +1,6 @@
 ### **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ---
@@ -9,20 +9,20 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0aefff,100:0070ff&height=180&section=header&text=Manjeet%20Kumar%20Mishra&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h3 align="center">Full Stack Developer | MERN | Java | DSA</h3>
+<h3 align="center">Full Stack Developer | MERN | Java | Python | DSA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Full+Stack+Apps;Daily+DSA+%7C+System+Design+Learner;AI+Integration+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Building+Scalable+Full+Stack+Apps;Daily+DSA+%7C+System+Design+Learner;AI+Assisted+Development+with+Modern+Tools" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 Final-year **B.Tech** student  
-- 💻 **Full Stack Developer** (MERN + Java)  
-- 🧠 Daily **DSA**, exploring **System Design**, building scalable apps  
-- 🚀 Always curious, always learning, always improving  
-- 🔥 Focused on **real-world problem solving**
+- 💻 **Full Stack Developer** (MERN + Java + Python)  
+- 🧠 Daily **DSA**, exploring **System Design**  
+- 🤖 Using **AI-assisted dev tools** to boost productivity  
+- 🚀 Focused on **real-world, scalable applications**
 
 ---
 
@@ -38,10 +38,19 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### **Tools**
+### **Languages & Runtime**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs" />
+</p>
+
+### **Tools & AI Workflow**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
+- ⚡ **Cursor** – AI-powered coding & refactoring  
+- 🌊 **Windsurf IDE** – AI-first development workflow  
+- 🤖 **ChatGPT / AI Tools** – problem solving, debugging, system design support  
 
 ---
 
@@ -92,22 +101,11 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/DSA-Consistent-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tech-MERN%20%7C%20Java-orange?style=flat-square" />
-</p>
-
-
----
-
 ## 🚀 Current Focus
 - 📌 Mastering **DSA (Interview-Oriented)**  
 - 🏗 Learning **System Design**  
-- 🤖 AI Integration in Full Stack Applications  
-- ⚡ Scaling real-world applications  
+- 🤖 AI-assisted Full Stack Development  
+- ⚡ Building scalable backend systems  
 
 ---
 
