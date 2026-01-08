@@ -92,14 +92,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjeet0505&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-</p>
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeet0505&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/DSA-Consistent-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tech-MERN%20%7C%20Java-orange?style=flat-square" />
 </p>
+
 
 ---
 
