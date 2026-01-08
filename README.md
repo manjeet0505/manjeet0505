@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 - 🎓 Final-year **B.Tech** student  
 - 💻 **Full Stack Developer** (MERN + Java)  
 - 🧠 Daily **DSA**, exploring **System Design**, building scalable apps  
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 ### **Frontend**
 <p align="center">
@@ -45,63 +45,54 @@
 
 ---
 
-# 🚀 Featured Projects (Modern Cards)
+# 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 AI-Powered Student Success Dashboard (S3)</h3>
-      <p>
-        Complete academic ecosystem with Resume Scoring, Job Recommendations,
-        Mentor Connect, Progress Tracking & AI automation.
-      </p>
-      <p align="center">
-        🔗 <a href="https://github.com/manjeet0505">View Repository</a>
-      </p>
-    </td>
+### 🧠 AI-Powered Student Success Dashboard (S3)
+**Tech:** Next.js · Node.js · MongoDB · AI APIs  
 
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Portfolio Builder (Next.js)</h3>
-      <p>
-        Multi-template portfolio generator with live preview,
-        dynamic rendering, and professional UI.
-      </p>
-      <p align="center">
-        🔗 <a href="https://github.com/manjeet0505">View Repository</a>
-      </p>
-    </td>
-  </tr>
+- Resume scoring & ATS analysis  
+- Personalized job recommendations  
+- Mentor connect & progress tracking  
+- AI-powered automation  
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📝 NoteFlow</h3>
-      <p>
-        Note-taking app with Google login, OTP login &
-        fully secure authentication flow.
-      </p>
-      <p align="center">
-        🔗 <a href="https://github.com/manjeet0505">View Repository</a>
-      </p>
-    </td>
+🔗 **[View Repository](https://github.com/manjeet0505)**  
 
-    <td width="50%" valign="top">
-      <h3 align="center">🤝 Senior–Junior Connect</h3>
-      <p>
-        Full stack platform for students to connect with seniors,
-        real-time chat, guidance & shared learning.
-      </p>
-      <p align="center">
-        🔗 <a href="https://github.com/manjeet0505">View Repository</a>
-      </p>
-    </td>
-  </tr>
-</table>
+---
 
+### 🎨 Portfolio Builder (Next.js)
+**Tech:** Next.js · Tailwind CSS  
+
+- Multi-template portfolio generator  
+- Live preview & dynamic rendering  
+- Clean & recruiter-ready UI  
+
+🔗 **[View Repository](https://github.com/manjeet0505)**  
+
+---
+
+### 📝 NoteFlow
+**Tech:** MERN · JWT · OAuth  
+
+- Google login + OTP authentication  
+- Secure note management system  
+- Responsive & clean UI  
+
+🔗 **[View Repository](https://github.com/manjeet0505)**  
+
+---
+
+### 🤝 Senior–Junior Connect
+**Tech:** MERN · Socket.io  
+
+- Real-time chat system  
+- Mentor–student networking  
+- Community-driven learning  
+
+🔗 **[View Repository](https://github.com/manjeet0505)**  
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manjeet0505&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 </p>
@@ -110,18 +101,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeet0505&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-
 ---
 
-## 🚀 Current Focus  
+## 🚀 Current Focus
 - 📌 Mastering **DSA (Interview-Oriented)**  
-- 🏗️ Learning **System Design**  
+- 🏗 Learning **System Design**  
 - 🤖 AI Integration in Full Stack Applications  
 - ⚡ Scaling real-world applications  
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:mishramanjeet26@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
