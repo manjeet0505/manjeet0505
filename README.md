@@ -47,7 +47,7 @@
 
 # 🚀 Featured Projects (Modern Cards)
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧠 AI-Powered Student Success Dashboard (S3)</h3>
@@ -97,13 +97,19 @@
   </tr>
 </table>
 
+
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
+## 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manjeet0505&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeet0505&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</div>
+</p>
+
 
 ---
 
