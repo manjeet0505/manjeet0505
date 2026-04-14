@@ -1,0 +1,78 @@
+<svg width="860" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00aaff">
+        <animate attributeName="stop-color" values="#00aaff;#7000ff;#00aaff" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#7000ff">
+        <animate attributeName="stop-color" values="#7000ff;#00aaff;#7000ff" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="860" height="120" fill="url(#bg)" rx="12"/>
+
+  <!-- Animated border glow -->
+  <rect x="1" y="1" width="858" height="118" fill="none" rx="11" stroke="url(#textGrad)" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Particles -->
+  <circle cx="40" cy="30" r="2" fill="#00aaff" opacity="0.5">
+    <animate attributeName="cy" values="30;80;30" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="90" r="2" fill="#7000ff" opacity="0.5">
+    <animate attributeName="cy" values="90;20;90" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0;0.5" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="15" r="1.5" fill="#00ffaa" opacity="0.4">
+    <animate attributeName="cx" values="200;230;200" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0;0.4" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="650" cy="105" r="1.5" fill="#00aaff" opacity="0.4">
+    <animate attributeName="cx" values="650;620;650" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0;0.4" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Waving hand -->
+  <text x="60" y="70" font-size="38" text-anchor="middle" opacity="0">
+    👋
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.2s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="rotate"
+      values="-10 60 70; 20 60 70; -10 60 70; 10 60 70; -10 60 70"
+      dur="1.5s" begin="0.5s" repeatCount="3"/>
+  </text>
+
+  <!-- Welcome text -->
+  <text font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" fill="url(#textGrad)" filter="url(#glow)" opacity="0">
+    <tspan x="115" y="52" font-size="26">Welcome to Manjeet's</tspan>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.6s" fill="freeze"/>
+  </text>
+
+  <text font-family="'Courier New', monospace" font-weight="800" fill="#ffffff" opacity="0">
+    <tspan x="115" y="88" font-size="30" fill="url(#textGrad)" filter="url(#glow)">GitHub Universe</tspan>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.0s" fill="freeze"/>
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="490" y="64" width="3" height="28" fill="#00aaff" rx="1">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" begin="1.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Tagline -->
+  <text x="760" y="75" font-family="'Segoe UI', sans-serif" font-size="12" fill="#ffffff" opacity="0" text-anchor="middle">
+    <tspan x="750" dy="0">Building · Learning</tspan>
+    <tspan x="750" dy="16">Shipping 🚀</tspan>
+    <animate attributeName="opacity" values="0;0.6" dur="0.5s" begin="1.8s" fill="freeze"/>
+  </text>
+</svg>
