@@ -34,13 +34,13 @@ const manjeet = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> &nbsp; Tech Stack
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-**🤖 AI / ML**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20"/> AI / ML**
 
 ![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -48,7 +48,7 @@ const manjeet = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**⚡ Frontend**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20"/> Frontend**
 
 ![Next.js](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -59,7 +59,7 @@ const manjeet = {
 </td>
     <td valign="top" width="50%">
 
-**🔧 Backend & Database**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20"/> Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -67,7 +67,7 @@ const manjeet = {
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**🧰 DevOps & Tools**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="20"/> DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -81,13 +81,13 @@ const manjeet = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> &nbsp; Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🧠 S3 Dashboard
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="22"/> S3 Dashboard
 **AI Career Intelligence Platform**
 
 > Helping students land dream roles with multi-agent AI
@@ -105,7 +105,7 @@ const manjeet = {
 </td>
     <td width="50%" valign="top">
 
-### 💸 ExpenseX
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="22"/> ExpenseX
 **Personal Finance Tracker**
 
 > Smart budget management with category analytics
@@ -125,7 +125,7 @@ const manjeet = {
   <tr>
     <td width="50%" valign="top">
 
-### 📝 NotesFlow
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="22"/> NotesFlow
 **AI-Assisted Note Taking**
 
 > Cloud-synced notes with built-in AI writing assistant
@@ -143,7 +143,7 @@ const manjeet = {
 </td>
     <td width="50%" valign="top">
 
-### 🤝 Senior–Junior Connect
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="22"/> Senior–Junior Connect
 **Real-Time Mentorship Platform**
 
 > Structured peer learning for students
@@ -163,7 +163,7 @@ const manjeet = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> &nbsp; GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjeet0505&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
@@ -180,7 +180,7 @@ const manjeet = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30"/> &nbsp; GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manjeet0505&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
@@ -188,11 +188,11 @@ const manjeet = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="30"/> &nbsp; Current Focus
 
 <p align="center">
 
-| 🏹 DSA Mastery | 🏗️ System Design | 🤖 AI Engineering | ⚙️ Backend Depth |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20"/> DSA Mastery | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Building%20Construction.png" width="20"/> System Design | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20"/> AI Engineering | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20"/> Backend Depth |
 |:-:|:-:|:-:|:-:|
 | Arrays · Trees · Graphs · DP | HLD · LLD · CAP · Caching | RAG · Agents · Tool-calling | Event-driven · Auth · Distributed |
 
@@ -200,7 +200,7 @@ const manjeet = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📬 Let's Build Something Together
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="30"/> &nbsp; Let's Build Something Together
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manjeet-mishra-175705260/">
