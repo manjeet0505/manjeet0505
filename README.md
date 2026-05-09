@@ -1,206 +1,157 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0aefff,50:0055ff,100:7000ff&height=200&section=header&text=Manjeet%20Kumar%20Mishra&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI-Powered%20Apps%20%7C%20DSA&descAlignY=58&descSize=18" />
-
-<!-- WELCOME BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manjeet0505/manjeet0505/main/welcome.svg" alt="Welcome to Manjeet's GitHub" width="100%" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a1a,100:0d1b4b&height=220&section=header&text=Manjeet%20Kumar%20Mishra&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20AI%20Products%20%E2%80%94%20Not%20Just%20Prototypes&descAlignY=58&descSize=20&descColor=5b9cf6" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manjeet-mishra-175705260/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/manjeet0505">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://x.com/mishramanjeet26">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=flat-square&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:mishramanjeet26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00AAFF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Full+Stack+Applications;MERN+Stack+%7C+Next.js+%7C+FastAPI+%7C+GPT-4o;Interview-Focused+DSA+%7C+System+Design;Shipping+Real+Products+that+Solve+Real+Problems" />
-</p>
+<br/>
 
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
-```typescript
-const manjeet = {
-  role        : "Full Stack Developer",
-  education   : "B.Tech Final Year",
-  stack       : ["MERN", "Next.js", "FastAPI", "Java", "Python"],
-  currentWork : "Building AI-powered products @ LilByte Startup",
-  focus       : ["Scalable Backend Systems", "AI Integration", "DSA & System Design"],
-  philosophy  : "Ship fast. Learn faster. Build things that matter.",
-};
+```bash
+> Manjeet Kumar Mishra — Full Stack Developer & AI Product Builder
+> Currently shipping: S3 Dashboard (AI Career Intelligence) @ LilByte
+> Stack: MERN · Next.js 14 · FastAPI · GPT-4o · Qdrant · Python
+> Mode: Production-first. Ship fast. Iterate faster.
 ```
 
-- 🏗️ Co-building **[S3 Dashboard](https://s3frontend-seven.vercel.app/)** — an AI career intelligence platform powered by **GPT-4o + Qdrant vector search**
-- 🧠 Deep-diving **System Design** and **LLD/HLD** patterns for interview & production readiness
-- ⚙️ Integrating AI agents into real full-stack products — not just chatbots
-- 📦 Consistent **DSA** grind — arrays to graphs, prep for top tech interviews
+I don't just integrate AI — I architect it. From multi-agent pipelines to vector search systems, I build full-stack products where AI is the core, not the afterthought. Currently deep in **system design**, **RAG pipelines**, and interview-grade **DSA**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What I Actually Build
 
-### ⚡ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,javascript" />
-</p>
+> No tutorial clones. No toy projects. Real systems with real users.
 
-### 🔧 Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,python" />
-</p>
-
-### 🌐 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python" />
-</p>
-
-### 🧰 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux" />
-</p>
-
-### 🤖 AI / ML Stack
-| Tool | Use Case |
-|------|----------|
-| **GPT-4o** | AI agents, resume parsing, intelligent recommendations |
-| **Qdrant** | Vector search & semantic similarity matching |
-| **LangChain / FastAPI** | AI workflow orchestration & REST APIs |
-| **Cursor / Windsurf** | AI-assisted development, refactoring, pair programming |
+| Layer | Focus |
+|---|---|
+| **AI Core** | Multi-agent orchestration · RAG pipelines · Vector embeddings · ATS parsing |
+| **Backend** | Event-driven APIs · FastAPI · Node.js · Distributed system patterns |
+| **Frontend** | Next.js 14 · React · Real-time UIs · Data dashboards |
+| **Infrastructure** | MongoDB · Qdrant · Vercel · Linux · Git workflows |
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Tech Arsenal
+
+**AI / ML**
+
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+---
+
+## 🚀 Shipped Projects
+
+---
 
 ### 🧠 S3 Dashboard — AI Career Intelligence Platform
-> *Helping students land their dream roles faster with multi-agent AI*
+> *94%+ match accuracy. 4 AI agents. Zero guesswork for students.*
 
-**[🌐 Live Demo](https://s3frontend-seven.vercel.app/)** &nbsp;|&nbsp; **[💻 GitHub](https://github.com/manjeet0505)**
+[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-0d1117?style=for-the-badge)](https://s3frontend-seven.vercel.app/)
+[![Code](https://img.shields.io/badge/💻%20GitHub-161b22?style=for-the-badge)](https://github.com/manjeet0505)
 
-![Next.js](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+```
+Stack: Next.js 14 · FastAPI · GPT-4o · Qdrant · MongoDB
+```
 
-- 🤖 **4 AI Agents** — Resume parsing, smart job matching, mentor connect, skill gap analysis
-- 🎯 **94%+ match accuracy** using vector embeddings and semantic search via Qdrant
-- 🗺️ Personalized **skill gap roadmaps** with resource links and estimated timelines
-- 🔍 **ATS Resume Scoring** with intelligent profile extraction from raw PDFs
+Multi-agent AI platform that turns a student's raw resume PDF into a complete career action plan. Built 4 autonomous agents covering resume parsing, job matching, mentor connect, and skill gap analysis — all talking to each other through a FastAPI orchestration layer.
+
+- **94%+ match accuracy** via Qdrant vector embeddings and semantic search  
+- **ATS Resume Scorer** — intelligent field extraction from unstructured PDFs  
+- **Skill Gap Roadmaps** — resource links + estimated completion timelines, personalized per user  
+- **Mentor Matching** — structured senior-junior pairing by domain and company track  
 
 ---
 
 ### 💸 ExpenseX — Personal Finance Tracker
-> *Smart budget management with analytics and category insights*
+> *Because "I'll track it mentally" never works.*
 
-**[🌐 Live Demo](https://expense-bay-mu.vercel.app/)** &nbsp;|&nbsp; **[💻 GitHub](https://github.com/manjeet0505)**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-- 📊 **Advanced analytics dashboard** — visual spending breakdowns and monthly trends
-- 🗂️ Smart **expense categorization** with intuitive UI
-- 🎯 **Budget tracking** — set goals, monitor overspending in real-time
-- 🔐 Secure auth with full **profile & settings management**
-
----
-
-### 📝 NotesFlow — Modern Note-Taking App
-> *Cloud-synced note management with AI writing assistance*
-
-**[🌐 Live Demo](https://noteflow-self.vercel.app/)** &nbsp;|&nbsp; **[💻 GitHub](https://github.com/manjeet0505)**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-- 🔐 **End-to-end encrypted** notes stored securely in the cloud
-- 🤖 Built-in **AI Writing Assistant** — note-taking tips, study techniques, topic guidance
-- ⚡ **Real-time sync** across all devices with instant updates
-- 🔑 **Google OAuth + OTP** based secure authentication
-
----
-
-### 🤝 Senior–Junior Connect
-> *Real-time mentorship & community platform for students*
-
-**[💻 GitHub](https://github.com/manjeet0505)**
-
-![MERN](https://img.shields.io/badge/MERN-Stack-47A248?style=flat-square)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-- 💬 **Real-time chat** powered by Socket.io
-- 🧑‍🏫 Structured **senior–junior mentorship pairing**
-- 🌱 Community-driven **peer learning** ecosystem
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjeet0505&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeet0505&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00aaff&text_color=ffffff&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manjeet0505&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00aaff&fire=00aaff&currStreakLabel=00aaff" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjeet0505&theme=react-dark&bg_color=0d1117&color=00aaff&line=0055ff&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manjeet0505&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</p>
-
----
-
-## 🎯 Current Focus
+[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-0d1117?style=for-the-badge)](https://expense-bay-mu.vercel.app/)
+[![Code](https://img.shields.io/badge/💻%20GitHub-161b22?style=for-the-badge)](https://github.com/manjeet0505)
 
 ```
-📌  DSA Mastery        →  Arrays, Trees, Graphs, DP (Interview-Oriented)
-🏗️  System Design      →  HLD, LLD, Scalability Patterns, CAP Theorem
-🤖  AI Integration     →  Multi-agent workflows, RAG pipelines, vector search
-⚙️  Backend Systems    →  Event-driven arch, caching, distributed design
+Stack: React · Node.js · MongoDB
 ```
+
+Full-featured finance tracker with category analytics, budget goal monitoring, and monthly trend visualization. Clean dashboard-first design where spending patterns surface immediately.
 
 ---
 
-## 📬 Let's Connect
+### 📝 NotesFlow — AI-Assisted Note Taking
+> *Sync everywhere. Write better with AI.*
+
+[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-0d1117?style=for-the-badge)](https://noteflow-self.vercel.app/)
+[![Code](https://img.shields.io/badge/💻%20GitHub-161b22?style=for-the-badge)](https://github.com/manjeet0505)
+
+```
+Stack: React · Node.js · JWT · Google OAuth
+```
+
+Cloud-synced notes with a built-in AI Writing Assistant. End-to-end encrypted storage, OTP + Google OAuth auth, real-time cross-device sync.
+
+---
+
+### 🤝 Senior–Junior Connect — Real-Time Mentorship Platform
+
+```
+Stack: MERN · Socket.io
+```
+
+Community platform for structured peer mentorship. Real-time chat, domain-matched pairing, and a peer learning ecosystem — built from scratch with Socket.io.
+
+---
+
+## 📊 GitHub at a Glance
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manjeet-mishra-175705260/">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:mishramanjeet26@gmail.com">
-    <img src="https://img.shields.io/badge/Drop_me_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=manjeet0505&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=5b9cf6&icon_color=5b9cf6&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeet0505&layout=compact&theme=github_dark&hide_border=true&title_color=5b9cf6&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manjeet0505&label=Profile%20Views&color=0070ff&style=flat-square" />
+  <img src="https://streak-stats.demolab.com?user=manjeet0505&theme=github-dark-blue&hide_border=true&background=0d1117&ring=5b9cf6&fire=5b9cf6&currStreakLabel=5b9cf6" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,50:0055ff,100:0aefff&height=140&section=footer" />
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjeet0505&theme=github-compact&bg_color=0d1117&color=5b9cf6&line=1f6feb&point=ffffff&area=true&hide_border=true" />
+</p>
 
 ---
 
@@ -216,15 +167,35 @@ const manjeet = {
 
 ---
 
-<!-- AI_NEWS_START -->
-## 🤖 Daily AI News  <sub>— auto-updated every morning</sub>
+## 🎯 Current Engineering Focus
 
-> 🕐 Last refreshed: **Setting up — first run pending**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   DSA Mastery      →  Trees · Graphs · DP · Sliding Window     │
+│   System Design    →  HLD · LLD · CAP Theorem · Caching        │
+│   AI Engineering   →  RAG · Multi-agent · Tool-calling APIs    │
+│   Backend Depth    →  Event-driven · Distributed · Auth flows  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-| # | 📰 Headline | 🔗 |
-|---|------------|-----|
-| 1 | AI news will auto-appear here after the first GitHub Action runs | [→ Read](#) |
+---
 
-<sub>Powered by GitHub Actions · Sources: Hacker News, MIT Tech Review, VentureBeat</sub>
+## 📬 Let's Build Something
 
-<!-- AI_NEWS_END -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/manjeet-mishra-175705260/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:mishramanjeet26@gmail.com">
+    <img src="https://img.shields.io/badge/mishramanjeet26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manjeet0505&label=Profile+Views&color=1f6feb&style=flat-square" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,60:0a0a1a,100:000000&height=140&section=footer" />
