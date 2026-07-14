@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:1f6feb&height=220&section=header&text=Manjeet%20Kumar%20Mishra&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%E2%86%92%20AI%20Product%20Engineer&descAlignY=62&descSize=21&descColor=58a6ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:1f6feb&height=220&section=header&text=Manjeet%20Kumar%20Mishra&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Full%20Stack%20Engineer%20%7C%20Multi-Agent%20Systems%20Builder&descAlignY=62&descSize=19&descColor=58a6ff" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-first+products+from+scratch;Multi-agent+AI+%7C+RAG+Pipelines+%7C+Vector+Search;MERN+%7C+Next.js+14+%7C+FastAPI+%7C+GPT-4o;System+Design+%7C+DSA+%7C+Backend+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+multi-agent+AI+systems+in+production;S3+Dashboard+%7C+MedLoop+AI+%7C+RAG+%2B+Vector+Search;Next.js+14+%7C+FastAPI+%7C+GPT-4o+%7C+Qdrant;Published+IEEE+Author+%7C+DSA+%7C+System+Design)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,18 +32,119 @@
 
 ```typescript
 const manjeet = {
-  role     : "Full Stack Developer → AI Product Engineer",
-  building : "S3 Dashboard — AI Career Intelligence Platform",
-  stack    : ["Next.js 14", "FastAPI", "GPT-4o", "Qdrant", "MERN", "Python"],
-  focus    : ["Multi-agent AI", "RAG Pipelines", "System Design", "DSA"],
-  motto    : "Build products where AI is the core, not the afterthought.",
+  role        : "AI Full Stack Engineer (Fresher, 2026)",
+  education    : "B.Tech CSE — Maharshi Dayanand University (Rank 1, CGPA 8.0)",
+  building     : ["S3 Dashboard — Multi-Agent AI Career Platform",
+                  "MedLoop AI — Autonomous Patient Care System"],
+  published    : "ICAICS-26 (IEEE) — LLM Architecture",
+  stack        : ["Next.js 14", "FastAPI", "GPT-4o", "Qdrant", "PostgreSQL", "MongoDB"],
+  focus        : ["Multi-agent AI", "RAG Pipelines", "System Design", "DSA"],
+  motto        : "Build products where AI is the core, not the afterthought.",
 };
 ```
 
-- 🏗️ Building **[S3 Dashboard](https://s3frontend-seven.vercel.app/)** — 4 AI agents, 94%+ match accuracy, shipping to real users
-- 🤖 Architecting **multi-agent workflows**, RAG systems & vector search pipelines — not just chatbot wrappers
-- 🧩 Deep in **System Design** — HLD, LLD, CAP Theorem, distributed patterns
-- ⚔️ Daily **DSA** grind — arrays → trees → graphs → DP, interview-focused
+- 🏗️ Building two production-grade **multi-agent AI platforms** — not chatbot wrappers, real agentic architecture
+- 📄 Published author at **ICAICS-26 (IEEE)** on LLM architecture
+- 💼 3x Software Engineering Intern — **Webs Jyoti · Next24tech · AIsignal**
+- ⚔️ Daily **DSA** grind in Java — pattern-based mastery, interview-focused
+- 🎯 Actively looking for **SDE-1 / Full Stack / AI Engineer** roles
+
+---
+
+## 🚀 Flagship Projects
+
+### 🩺 MedLoop AI — Autonomous Patient Care Platform
+
+<table>
+  <tr>
+    <td width="100%">
+
+**India's first autonomous multi-agent patient care system** &nbsp;|&nbsp; AI agents that manage patient onboarding, monitoring & care coordination end-to-end
+
+[![GitHub](https://img.shields.io/badge/💻%20Source%20Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjeet0505)
+
+`Next.js 14` `FastAPI` `PostgreSQL (Neon)` `JWT Auth` `Multi-Agent AI`
+
+| Feature | Details |
+|:--|:--|
+| 🤖 **Autonomous Agents** | Multi-agent architecture coordinating patient care workflows |
+| 🔐 **Secure Invite Onboarding** | Token-based patient invites — unique link, 48hr expiry, single-use |
+| 🗄️ **Full Patient CRUD** | JWT-secured REST APIs · 14+ endpoints in production |
+| 🎨 **4-Theme System** | Fully themeable UI built on Next.js 14 |
+
+</td>
+  </tr>
+</table>
+
+### 🌟 S3 Dashboard — AI Career Intelligence Platform
+
+<table>
+  <tr>
+    <td width="100%">
+
+**Multi-agent AI career platform** &nbsp;|&nbsp; Helping students land dream roles with 4 coordinated AI agents
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-1f6feb?style=for-the-badge)](https://s3frontend-seven.vercel.app/)
+[![GitHub](https://img.shields.io/badge/💻%20Source%20Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjeet0505)
+
+`Next.js 14` `FastAPI` `GPT-4o` `Qdrant` `MongoDB` `Cohere RAG`
+
+| Feature | Details |
+|:--|:--|
+| 🤖 **4 AI Agents** | Resume parsing · Job matching · CareerChat RAG assistant · Skill gap analysis |
+| 🎯 **94%+ Match Accuracy** | Qdrant vector embeddings for precision job-resume matching |
+| 🗺️ **Skill Gap Engine** | Curated resource maps + live market demand scoring |
+| 🎙️ **Mock Interview Agent** | AI-driven interview practice with feedback |
+| 📋 **Kanban Job Tracker** | Freemium plan architecture, Cloudflare Turnstile CAPTCHA-secured auth |
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 📦 Other Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 💰 ExpenseX
+**Personal Finance Tracker**
+
+> Smart budget management with category analytics
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-1f6feb?style=for-the-badge)](https://expense-bay-mu.vercel.app/)
+[![GitHub](https://img.shields.io/badge/💻%20Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjeet0505)
+
+`React` `Node.js` `MongoDB`
+
+- 📊 Analytics dashboard with visual spending breakdowns
+- 🗂️ Smart expense categorization
+- 🎯 Budget goals with real-time overspend alerts
+- 🔐 Secure auth + profile management
+
+</td>
+    <td width="50%" valign="top">
+
+### 📝 NotesFlow
+**AI-Assisted Note Taking**
+
+> Cloud-synced notes with a built-in AI writing assistant
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-1f6feb?style=for-the-badge)](https://noteflow-self.vercel.app/)
+[![GitHub](https://img.shields.io/badge/💻%20Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjeet0505)
+
+`React` `Node.js` `JWT` `Google OAuth`
+
+- 🔐 E2E encrypted cloud storage
+- 🤖 Built-in AI writing assistant
+- ⚡ Real-time sync across devices
+- 🔑 Google OAuth + OTP auth
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -76,17 +177,17 @@ const manjeet = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **🧰 DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </td>
   </tr>
@@ -94,74 +195,15 @@ const manjeet = {
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Current Focus
 
-### 🌟 Flagship — S3 Dashboard
+<div align="center">
 
-<table>
-  <tr>
-    <td width="100%">
+| 📚 DSA Mastery | 🏗️ System Design | 🤖 AI Engineering | ⚙️ Backend Depth |
+|:-:|:-:|:-:|:-:|
+| Java · Trees · Graphs · DP | HLD · LLD · CAP · Caching | RAG · Multi-Agent · Tool-calling | Auth · Event-driven · Distributed |
 
-**AI Career Intelligence Platform** &nbsp;|&nbsp; Helping students land dream roles with multi-agent AI
-
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-1f6feb?style=for-the-badge)](https://s3frontend-seven.vercel.app/)
-[![GitHub](https://img.shields.io/badge/💻%20Source%20Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjeet0505)
-
-`Next.js 14` `FastAPI` `GPT-4o` `Qdrant` `MongoDB`
-
-| Feature | Details |
-|:--|:--|
-| 🤖 **4 AI Agents** | Resume parsing · Job matching · Mentor connect · Skill gap analysis |
-| 🎯 **94%+ Accuracy** | Powered by Qdrant vector embeddings for precision matching |
-| 🗺️ **Smart Roadmaps** | Personalized learning paths with resource links + timelines |
-| 🔍 **ATS Scorer** | Intelligent PDF extraction & scoring against job descriptions |
-
-</td>
-  </tr>
-</table>
-
-### 📦 More Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 💰 ExpenseX
-**Personal Finance Tracker**
-
-> Smart budget management with category analytics
-
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-1f6feb?style=for-the-badge)](https://expense-bay-mu.vercel.app/)
-[![GitHub](https://img.shields.io/badge/💻%20Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjeet0505)
-
-`React` `Node.js` `MongoDB`
-
-- 📊 **Analytics dashboard** — visual spending breakdowns
-- 🗂️ Smart **expense categorization**
-- 🎯 **Budget goals** — real-time overspend alerts
-- 🔐 Secure auth + profile management
-
-</td>
-    <td width="50%" valign="top">
-
-### 📝 NotesFlow
-**AI-Assisted Note Taking**
-
-> Cloud-synced notes with built-in AI writing assistant
-
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-1f6feb?style=for-the-badge)](https://noteflow-self.vercel.app/)
-[![GitHub](https://img.shields.io/badge/💻%20Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjeet0505)
-
-`React` `Node.js` `JWT` `Google OAuth`
-
-- 🔐 **E2E encrypted** cloud storage
-- 🤖 **AI Writing Assistant** built-in
-- ⚡ **Real-time sync** across all devices
-- 🔑 Google OAuth + OTP auth
-
-</td>
-  </tr>
-</table>
+</div>
 
 ---
 
@@ -182,18 +224,6 @@ const manjeet = {
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=manjeet0505&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 📚 DSA Mastery | 🏗️ System Design | 🤖 AI Engineering | ⚙️ Backend Depth |
-|:-:|:-:|:-:|:-:|
-| Arrays · Trees · Graphs · DP | HLD · LLD · CAP · Caching | RAG · Agents · Tool-calling | Event-driven · Auth · Distributed |
-
 </div>
 
 ---
