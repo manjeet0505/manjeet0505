@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Rank+1+%C2%B7+8.0+CGPA+%C2%B7+B.Tech+CSE+%2C+MDU+2026;IEEE+Published+Author+%C2%B7+ICAICS-26;Building+Production+Multi-Agent+AI+Systems;Open+to+SDE-1+%2F+AI+Engineer+Roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Rank+1+%C2%B7+8.5+CGPA+%C2%B7+B.Tech+CSE+%2C+MDU+2026;IEEE+Published+Author+%C2%B7+ICAICS-26;Building+Production+Multi-Agent+AI+Systems;Open+to+SDE-1+%2F+AI+Engineer+Roles" alt="Typing SVG"/>
 
 <br><br>
 
