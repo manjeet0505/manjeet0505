@@ -36,7 +36,7 @@ Now looking for **SDE-1 / AI Engineer** roles at **product companies and GCCs** 
 
 | | |
 |---|---|
-| 🎓 **Education** | B.Tech CSE, MDU — Rank 1, 8.0 CGPA |
+| 🎓 **Education** | B.Tech CSE, MDU — Rank 1, 8.5 CGPA |
 | 📄 **Published** | IEEE ICAICS-26, LLM Architecture |
 | 💼 **Internships** | Webs Jyoti · Next24tech · AIsignal |
 | 🎯 **Looking for** | SDE-1 / AI Engineer, product-first |
